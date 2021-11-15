@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Body url="/images/photo-couch_2x.jpg" />
+      <Body />
     </div>
   );
 }

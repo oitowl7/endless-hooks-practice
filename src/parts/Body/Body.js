@@ -68,7 +68,7 @@ const baseData = [
 ];
 
 
-function Body({ url }) {
+function Body() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
@@ -99,7 +99,7 @@ function Body({ url }) {
 
   return(
     <div className="home-page-body">
-      <BodyBackground url={url} />
+      <BodyBackground  />
       <BodyText />
       <BodyHowTo data={data} />
     </div>

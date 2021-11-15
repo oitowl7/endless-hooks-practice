@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/endless-hooks-practice/static/css/main.9117924d.chunk.css",
-    "main.js": "/endless-hooks-practice/static/js/main.d27bc23f.chunk.js",
-    "main.js.map": "/endless-hooks-practice/static/js/main.d27bc23f.chunk.js.map",
+    "main.js": "/endless-hooks-practice/static/js/main.f34f1436.chunk.js",
+    "main.js.map": "/endless-hooks-practice/static/js/main.f34f1436.chunk.js.map",
     "runtime-main.js": "/endless-hooks-practice/static/js/runtime-main.de258c17.js",
     "runtime-main.js.map": "/endless-hooks-practice/static/js/runtime-main.de258c17.js.map",
     "static/js/2.343c0c3e.chunk.js": "/endless-hooks-practice/static/js/2.343c0c3e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.de258c17.js",
     "static/js/2.343c0c3e.chunk.js",
     "static/css/main.9117924d.chunk.css",
-    "static/js/main.d27bc23f.chunk.js"
+    "static/js/main.f34f1436.chunk.js"
   ]
 }

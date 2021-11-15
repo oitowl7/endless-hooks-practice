@@ -1,0 +1,27 @@
+.header-logo{
+  margin: 10px;
+  margin-left: 15%;
+  max-height: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .header-container{
+    text-align: center;
+  }
+
+  .header-logo{
+    margin: 10px;
+    max-height: 30px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .header-container{
+    text-align: center;
+  }
+  
+  .header-logo{
+    margin: 10px;
+    max-height: 30px;
+  }
+}

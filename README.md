@@ -1,6 +1,6 @@
 # SingleStone Endless Front End React App
 
-This project is a React single page showing the representation of a fictional website called Endless which does something with video games. It was created using react hooks and vanilla css and designed to be responsive to all page sizes larger than 320 pixels wide. It is getting it's "step" data from a node.js API deployed on Heroku using Google Clouds built in MYSQL databases. This app only uses the standard get request however full CRUD capability has been created in the API. The github for that API is at [`https://github.com/oitowl7/endless-api`](https://github.com/oitowl7/endless-api).
+This project is a React single page showing the representation of a fictional website called Endless which does something with video games. It was created using react hooks and vanilla css and designed to be responsive to all page sizes larger than 320 pixels wide. It is getting it's "step" data from a node.js API deployed on Heroku using Google Clouds built in MYSQL databases. This app only uses the standard get request however full CRUD capability has been created in the API. The github for that API is at [`https://github.com/oitowl7/endless-api`](https://github.com/oitowl7/endless-api). Due to the API being hosted on a Heroku page, there will occasionally be 1 long loading cycle while Heroku redeploys the site from hibernation
 
 ## Installation and Usage:
 * Clone the existing repository

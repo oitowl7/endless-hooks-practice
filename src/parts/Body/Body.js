@@ -71,7 +71,10 @@ const baseData = [
 function Body() {
   const [data, setData] = useState(null);
 
-  useEffect(() => {
+  useEffect(async () => {
+    // const response = await fetch(`https://singlestone-endless-api.herokuapp.com/steps/`);
+    // const json = await response.json();
+
     let editedData = [...baseData];
 
     editedData.sort((a, b) => {

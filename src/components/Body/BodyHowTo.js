@@ -1,10 +1,9 @@
 import React from "react";
 
 function BodyHowTo({ data }) {
-  console.log(data);
   return (
     <div className="how-it-works-container">
-      <h2 class="how-it-works-header">How It Works</h2>
+      <h2 className="how-it-works-header">How It Works</h2>
       <div className="how-it-works-grid">
         {data && data.map((d, i) => {
           return(
